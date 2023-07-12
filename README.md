@@ -1,2 +1,3 @@
-# Project_1_tactile_US_signal_fusion_dataset
+# Project 1 (Tactile-Ultrasound signal fusion) dataset
+
 The training set produced and used to generate the tactile-Ultrasound signal sets.
