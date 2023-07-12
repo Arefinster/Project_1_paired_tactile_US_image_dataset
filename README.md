@@ -6,7 +6,7 @@ These are the different training and testing datasets organized to generate the 
 2. A tactile-US image is visualized as following in 3D. 
 ![Tctile-US image in 3D](Resources/In_3D.bmp)
 3. At the time of acquisition, the tactile and the US images are aligned and visualized in 2D as following.
-.......................................![Tctile image in 2D](Resources/sample_TC_img.jpg)
+...................................![Tctile image in 2D](Resources/sample_TC_img.jpg)
 
    ![US image in 2D](Resources/sample_US_img.bmp)
 
