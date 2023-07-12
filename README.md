@@ -7,6 +7,7 @@ These are the different training and testing datasets organized to generate the 
 ![Tctile-US image in 3D](Resources/In_3D.bmp)
 3. At the time of acquisition, the tactile and the US images are aligned and visualized in 2D as following.
 ![Tctile image in 2D](Resources/sample_TC_img.jpg)
+
    ![US image in 2D](Resources/sample_US_img.jpg)
 
 4. Notice that in the 3D image where the tactile image plane intersects the US image plane, the US image area above the line of intersection is irrelevant and is 
