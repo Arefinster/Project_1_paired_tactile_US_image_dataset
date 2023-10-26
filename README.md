@@ -41,7 +41,4 @@ is the same as the dimension of the respective image.
 that is below the line of intersection.
 
 ### 11. 
-- Folders **train_signal_series_t** and **test_signal_series_t** contains only the tactile signal series extracted from the folders in 10.
-
-### 12. 
-- Folders **train_signal_series_u** and **test_signal_series_u** contains only the US signal series extracted from the folders in 11.
+- Folders **train_signal_series_u** and **test_signal_series_u** contains only the US signal series extracted from the folders in 10.
