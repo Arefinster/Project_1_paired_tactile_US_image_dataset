@@ -23,15 +23,25 @@ therefore blancked out.
 - Each of the 2D images is converted to intensity signals in row-wise manner and is saved as numerical 2D matrix in a .txt file.
 
 ### 6. 
-- The folders **bold train** and **bold test** in this repository contains the original tactile and US paired images organized into tumor and nontumor categories. These are acquired 
+- The folders **train** and **test** in this repository contains the original tactile and US paired images organized into tumor and nontumor categories. These are acquired 
 from the main training sets
 
 ### 7. 
-- Folders **bold train_signal_series_with_original_shape** and **bold test_signal_series_with_original_shape** contain the paired tactile-US signal series that reflect the entire 
-dimensions of each of the images, respectively.
+- Folders **train_signal_series_with_original_shape** and **test_signal_series_with_original_shape** contain the paired tactile-US signal series. The size of the signal matrix 
+is the same as the dimension of the respective image.
 
-8. Folders "train_us_signal_org_shape" and "test_us_signal_org_shape" contain only the US signal series extracted from the folders in 7.
-9. Folders "train_signal_series_0" and "test_signal_series_0" contain the same as that in 7; however, the US signals only reflect the relevant area of the US image 
+### 8. 
+- Folders **train_us_signal_org_shape** and **test_us_signal_org_shape** contain only the US signal series extracted from the folders in ***7***.
+
+### 9.
+- Folders **train_tc_signal_org_shape** and **test_tc_signal_org_shape** contain only the TC signal series extracted from the folders in ***7***.
+
+### 10. 
+- Folders **train_signal_series_0** and **test_signal_series_0** contain the same as that in ***7***; however, the US signals only covers the relevant area of the US image 
 that is below the line of intersection.
-10. Folders "train_signal_series_t" and "test_signal_series_t" contains only the tactile signal series extracted from the folders in 9.
-11. Folders "train_signal_series_u" and "test_signal_series_u" contains only the US signal series extracted from the folders in 9.
+
+### 11. 
+- Folders **train_signal_series_t** and **test_signal_series_t** contains only the tactile signal series extracted from the folders in 10.
+
+### 12. 
+- Folders **train_signal_series_u** and **test_signal_series_u** contains only the US signal series extracted from the folders in 11.
