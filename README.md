@@ -2,7 +2,7 @@
 
 These are the different training and testing datasets organized to generate the tactile-US signal sets.
 
-1. Each of all the folders in this repository has two sub-folders labeled as "tumor" and "nontumor". These are also labels to the tactile-US data stored in them.
+##1. Each of all the folders in this repository has two sub-folders labeled as "tumor" and "nontumor". These are also labels to the tactile-US data stored in them.
 2. A tactile-US image is visualized as following in 3D. 
 ![Tctile-US image in 3D](Resources/In_3D.bmp)
 3. At the time of acquisition, the tactile and the US images are aligned and visualized in 2D as following.
